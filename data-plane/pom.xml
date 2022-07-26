@@ -53,7 +53,7 @@
     <net.logstash.logback.encoder.version>6.5</net.logstash.logback.encoder.version>
     <assertj.version>3.18.1</assertj.version>
     <awaitility.version>4.0.3</awaitility.version>
-    <junit.jupiter.version>5.7.0</junit.jupiter.version>
+    <junit.jupiter.version>5.9.0</junit.jupiter.version>
     <mokito.junit.jupiter.version>3.7.0</mokito.junit.jupiter.version>
   </properties>
 
